@@ -24,7 +24,7 @@ O script utiliza cores para destacar as diferentes operações. Aqui está a leg
 
 ## Exemplo de Uso
 
-![...](https://imgur.com/usyrvzf)
+![...](https://i.imgur.com/usyrvzf.png)
 
 ## Observação
 
