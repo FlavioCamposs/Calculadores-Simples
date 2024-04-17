@@ -1,4 +1,4 @@
-# Tabuada Dinâmica
+# Tabuada das 4 operações
 
 Este é um script em Python que permite ao usuário escolher uma operação matemática (adição, subtração, multiplicação ou divisão) e, em seguida, exibe a tabuada do número digitado pelo usuário para a operação selecionada.
 
